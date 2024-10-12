@@ -68,4 +68,4 @@ This project uses a Python-based architecture, with the following technologies:
 **Authors**
 ------------
 
-* Clinton Beyene ([clinton.beyene52@gmail.com](mailto:clinton.beyene@example.com))
+* Clinton Beyene ([clintonbeyene52@gmail.com](mailto:clintonbeyene52@gmail.com))
